@@ -153,3 +153,7 @@ Such analysis can help students and professionals understand which technical ski
 ---
 
 ## Output
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/7dc0296c-7ee1-4001-a775-210ffbb054ee" />
+<img width="957" height="1020" alt="Image" src="https://github.com/user-attachments/assets/ba6434c7-d340-452b-b440-ada26618c142" />
+
+---
